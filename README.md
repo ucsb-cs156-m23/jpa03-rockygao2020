@@ -1,7 +1,8 @@
 # STARTER-jpa03
 
+Running at: <https://jpa03-rockygao2020.dokku-05.cs.ucsb.edu>
 ```
-Running at: [https://jpa03-rockygao2020.dokku-05.cs.ucsb.edu](https://jpa03-rockygao2020.dokku-05.cs.ucsb.edu)
+
 
 # Configuring GitHub Pages for the documentation
 
